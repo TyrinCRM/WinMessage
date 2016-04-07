@@ -49,7 +49,7 @@ this can be solved by plugging the device in to a power source.
  
  
  # License Information
- - WinMessage is FREE SOFTWARE, however, you may not distribute or modify
+ - WinMessage is provided FREE OF CHARGE, however, you may not distribute or modify
  it without explicit permission. We may decide to add an open-source
  license in the future, but for the time being, distribution and
- commercial use are explicitly prohibited. 
+ commercial use are explicitly prohibited. All legal copyright rights are reserved.
